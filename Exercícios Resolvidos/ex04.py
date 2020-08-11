@@ -13,7 +13,7 @@ y3 = int(input("Digite um valor para y3: "))
 
 # Não será um triângulo se os três pontos pertencem à mesma reta.
 # Poderá ser um triângulo se dois pontos pertencerem à mesma reta e forem diferentes
-# Poderá ser um retângulo se todos os pontos pertencerem a retas diferentes
+# Poderá ser um triângulo se todos os pontos pertencerem a retas diferentes
 if (x1!=x2 or x1!=x3)and(y1!=y2 or y1!=y3):
     print("É um triângulo!")
     # Calculam-se os valores dos lados
