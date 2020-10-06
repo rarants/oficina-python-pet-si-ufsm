@@ -1,7 +1,7 @@
 # Oficina-Python-PET-SI
-## Olá pessoal! Neste repositório está a resolução dos exercícios da Oficina de Introdução à Python do PET-Sistemas de Informação. 
+## Olá pessoal! Neste repositório está a resolução dos exercícios da Oficina de Introdução à Python do PET-Sistemas de Informação da UFSM. 
 
-Playlist da aulas no Youtube:
+Playlist da aulas no Youtube: https://www.youtube.com/playlist?list=PL5y5aUswYcK4rMi3I9gaCGc2MmEGz6UHP
 
 Canal do PET: https://www.youtube.com/channel/UCXfutwFpGSJbPLAfU8eJvWA
 
